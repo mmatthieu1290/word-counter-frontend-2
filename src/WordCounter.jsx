@@ -79,6 +79,8 @@ export default function WordCounter() {
 
   return (
     <div className="max-w-2xl mx-auto p-6">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4495044866153203"
+     crossorigin="anonymous"></script>
       <h1 className="text-2xl font-bold mb-4">{t.title}</h1>
       <textarea
         className="w-full p-4 border rounded-md shadow-sm"
